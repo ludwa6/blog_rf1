@@ -40,6 +40,7 @@ And that, i would say, pretty much sums-up my little addendum to the vast body o
 _____
 LINKS:
 
+- A [Photo Album](https://imgur.com/gallery/t3kNUkE) with pix of specific plants, from last summer.
 - A closeup image ![SFG closeup image](https://i.imgur.com/Bg6FQl3h.jpg) of the SFG.
 - An aerial image ![SFG aerial image](https://i.imgur.com/ZBh3v9ah.jpg) of the SFG.
 _____
