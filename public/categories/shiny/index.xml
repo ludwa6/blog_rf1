@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on ReFarmer.Net</title>
+    <link>/categories/shiny/</link>
+    <description>Recent content in Shiny on ReFarmer.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data visualisation 1</title>
+      <link>/post/data-visualisation-1/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-visualisation-1/</guid>
+      <description>Until i can figure out how this business of Shiny app publishing, i guess i&amp;rsquo;m stuck with the old-school method of saving graphics out of RStudio and pasting them into documents, like this post.
+My workflow on this operation is:
+ copy the image of plot as visualised in RStudio; paste it into my desktop image editor, to make any needed adjustments; upload it from there to Imgur.com, which is the best online image host i have found; then paste code Imgur provides for my choice of image rendering size into the .</description>
+    </item>
+    
+    <item>
+      <title>Shiny app publishing</title>
+      <link>/post/shiny-app-publishing/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-app-publishing/</guid>
+      <description>Met this morning with Franceso (my R dev collaborator and coach), and we got our Shiny app working well enough that i am very keen to publish it on the web. Much easier said than done! It&amp;rsquo;s pretty bandwidth intensive, as it is crunching a pretty large volume of data, and shinyapps.io just doesn&amp;rsquo;t seem up to the task.
+So we&amp;rsquo;re looking for alternatives. Only one i know about right now is rpubs.</description>
+    </item>
+    
+  </channel>
+</rss>

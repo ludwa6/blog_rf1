@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plot on ReFarmer.Net</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in Plot on ReFarmer.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GROW Observatory: making an impact</title>
+      <link>/post/grow-observatory-making-an-impact/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/grow-observatory-making-an-impact/</guid>
+      <description>Since joining this project last August, we&amp;rsquo;ve deployed a whole lot of soil sensors across our landscape and spent more than a few hours collecting and uploading data, without having any real sense of the big picture, i.e.: What is the full scope and distribution of this Citizens Observatory? and what insight can we derive from the data gathered thus far?
+Well&amp;hellip; Results are only just starting to come back from The Observatory, but the picture is pretty encouraging already, at least a far as the first question is concerned.</description>
+    </item>
+    
+    <item>
+      <title>Data visualisation 1</title>
+      <link>/post/data-visualisation-1/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-visualisation-1/</guid>
+      <description>Until i can figure out how this business of Shiny app publishing, i guess i&amp;rsquo;m stuck with the old-school method of saving graphics out of RStudio and pasting them into documents, like this post.
+My workflow on this operation is:
+ copy the image of plot as visualised in RStudio; paste it into my desktop image editor, to make any needed adjustments; upload it from there to Imgur.com, which is the best online image host i have found; then paste code Imgur provides for my choice of image rendering size into the .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Permaculture on ReFarmer.Net</title>
+    <link>/tags/permaculture/</link>
+    <description>Recent content in Permaculture on ReFarmer.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/permaculture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REAL Organic Standards</title>
+      <link>/post/real-organic-standards/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/real-organic-standards/</guid>
+      <description>While government-approved organic certification standards are a good thing to have, they are by no means a guarantee that the produce under the label is of the highest nutritional quality. Indeed, as anyone who&amp;rsquo;s seen the film &amp;ldquo;Keeping the Soil in Organic&amp;rdquo; must admit, the standard -at least in USA (i.e. USDA Ceritified Organic)- is so broad as to admit of some very unhealthful practices&amp;hellip; And because those practices are essential to the profitiability of those big agri-businesses that have lobbied successfully to protect them, they are in fact coming to increasingly dominate the organic food supply chain.</description>
+    </item>
+    
+    <item>
+      <title>Permaculture, 10 years into it</title>
+      <link>/post/permaculture-10-years-into-it/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/permaculture-10-years-into-it/</guid>
+      <description>Since hosting our first PDC (Permaculture Design Course) here on the farm some 10 years ago, and having since then gained a measure of fame for our applications of this particular design science, i want to take a few moments here for celebration and critical reflection on that experience.
+One project in particular stands out for me as reflecting pretty much the entire rainbow of possibilities: the light, the dark, and everything in between.</description>
+    </item>
+    
+  </channel>
+</rss>
