@@ -12,7 +12,7 @@ description: ''
 thumbnail: ''
 ---
 
-Since hosting our first PDC (Permaculture Design Course) here [on the farm](https://www.valedalama.net/en/) some 10 years ago, and having since then [gained a measure of fame](/permaculture_article.pdf) for our applications of this particular design science, i want to take a few moments here for celebration and critical reflection on that experience.
+Since hosting our first PDC (Permaculture Design Course) here [on the farm](https://www.valedalama.net/en/) some 10 years ago, and having since then [gained a measure of fame](/PM-91,RegenerativeFarming.pdf) for our applications of this particular design science, i want to take a few moments here for celebration and critical reflection on that experience.
 
 One project in particular stands out for me as reflecting pretty much the entire rainbow of possibilities: the light, the dark, and everything in between.  Since [Yassine and Joana came by yesterday](https://www.facebook.com/photo.php?fbid=2334561710198279&set=pcb.2334562676864849&type=3&__tn__=HH-R&eid=ARDQp5NICOtALbDcBDtxcC1DrtrgNCp75QX-BPyEHd_bLGjoqm3ZgBNOqeiWMdqs6zK-K3BVEqJ41plN), curious to see progress on this front, and since they were there at the very beginning, having observed progress only at intervals from afar, we had a good chat about what really worked, what didn't, and what we'd do differently, given another go at creating...
 
