@@ -32,7 +32,7 @@ This reminds me of another list of related principles: Gabe Brown's [5 Principle
 4. Living Roots in the ground as long as possible, using covercrops & seasonal diversity
 5. Integrated Animals: not only livestock, but consider also the role of "little critters" dwelling on and in the soil, in keeping the soil healthy
 
-And if you want to dive deeper into the subject, John Kempf posits the following Core Concepts (From AEG's [Mission and Core Concepts](https://www.advancingecoag.com/mission) page), which also happen to be 5 in number (what is it with these lists of 5 i wonder? :-) In fact there's a longer list on the page linked above, with videos that go into depth on each one, but here's the short list:
+And if you want to dive deeper into the whys and wherefores of this subject, John Kempf posits the following Core Concepts (From AEG's [Mission and Core Concepts](https://www.advancingecoag.com/mission) page), which also happen to be 5 in number (what is it with these lists of 5 i wonder? :-) In fact there's a longer list on the page linked above, with videos that go into depth on each one, but here's the short list:
 
 1. Healthy Plants Resist Insects and Disease
 2. Mineral Nutrition Supports Plant Immunity
