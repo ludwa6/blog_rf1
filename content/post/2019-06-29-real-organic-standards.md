@@ -23,3 +23,21 @@ PS: Here's a short version of those standards i just found on [Eliot Coleman's s
 3. Third, deep-rooting green manures, cover crops, and grazed pastures must be included within broadly based crop rotations to enhance biological diversity. The greater the variety of plants and animals on the farm, the more stable the system.
 4. Fourth, a “plant positive” rather than a “pest negative” philosophy is vital. The focus must be on correcting the cause of pest problems (sick plants) by strengthening the plant through creating optimum soil conditions to prevent pests, rather than merely treating the symptom (pest damage) by trying to kill the pests that prey on weak plants. More and more scientific evidence is available today on the mechanisms by which a biologically active fertile soil creates induced resistance in the crops.
 5. Fifth, livestock must be raised outdoors on grass-based pasture systems to the fullest extent possible. Farm animals are an integral factor in the symbiosis of soil fertility on the organic farm.
+
+This reminds me of another list of related principles: Gabe Brown's [5 Principles of a healthy soil-ecosystem](http://www.sourcingmatters.show/index.php/2018/12/13/ep-57-gabe-brown-principal-of-new-ag-principles/):
+
+1. Limited Disturbance:  avoid synthetics & tillage
+2. Topsoil Cover: bare soil is (as Savory Says) "public enemy #1"
+3. BioDiversity: no monocropping; nature doesn't work that way, neither do we
+4. Living Roots in the ground as long as possible, using covercrops & seasonal diversity
+5. Integrated Animals: not only livestock, but consider also the role of "little critters" dwelling on and in the soil, in keeping the soil healthy
+
+And if you want to dive deeper into the subject, John Kempf posits the following Core Concepts (From AEG's [Mission and Core Concepts](https://www.advancingecoag.com/mission) page), which also happen to be 5 in number (what is it with these lists of 5 i wonder? :-) In fact there's a longer list on the page linked above, with videos that go into depth on each one, but here's the short list:
+
+1. Healthy Plants Resist Insects and Disease
+2. Mineral Nutrition Supports Plant Immunity
+3. Microbial Metabolites Are a More Efficient Source of Nutrition
+4. Quality Drives Yield
+5. Healthy Plants Create Healthy Soil
+
+So there you have some helpful ideas and resources to chew over, in developing your own "REAL Organic" production.
