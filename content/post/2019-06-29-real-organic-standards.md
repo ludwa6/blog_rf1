@@ -41,3 +41,5 @@ And if you want to dive deeper into the whys and wherefores of this subject, Joh
 5. Healthy Plants Create Healthy Soil
 
 So there you have some helpful ideas and resources to chew over, in developing your own "REAL Organic" production.
+
+PS: This just in: [best article i've found yet](https://www.indiefarmer.com/2018/02/22/no-till-growers-realising-promise-soil-health-organic-horticulture/) for explaining how to apply all these "motherhood" principles in a practical way.  Thanks for that, [Niels Corfield](https://www.facebook.com/nielscorfieldland/)!
