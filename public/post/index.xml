@@ -6,10 +6,20 @@
     <description>Recent content in Posts on ReFarmer.Net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Soil Test Methods &amp; Tech</title>
+      <link>/post/soil-test-methods-tech/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/soil-test-methods-tech/</guid>
+      <description>Having experimented with many forms of soil testing over the years, from simple DIY jar tests to the most sophisticated lab tests and everything in between, i can’t say as i’ve yet found a method that is both sufficiently rigorous AND agile enough that we can commit to doing on a broad enough scale and long enough timetable to inform good decision-making here on the farm.
+That being said: this “Sector Mentor for Soils” app looks pretty promising on the face of it -and comes well-recommended by my Regrarians Workplace colleague Stephen Barrow, so i might give it a try…</description>
+    </item>
     
     <item>
       <title>REAL Organic Standards</title>
