@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on ReFarmer.Net</title>
+    <link>/tags/technology/</link>
+    <description>Recent content in Technology on ReFarmer.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualising Soil Moisture</title>
+      <link>/post/visualising-soil-moisture/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualising-soil-moisture/</guid>
+      <description>It’s been a long haul, and before the rainy season comes around again….</description>
+    </item>
+    
+  </channel>
+</rss>

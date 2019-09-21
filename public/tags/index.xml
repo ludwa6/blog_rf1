@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ReFarmer.Net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Agroforestry</title>
       <link>/tags/agroforestry/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/agroforestry/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Permaculture</title>
       <link>/tags/permaculture/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/permaculture/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Regenag</title>
       <link>/tags/regenag/</link>
-      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/regenag/</guid>
       <description></description>
@@ -53,6 +53,15 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/staging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>/tags/technology/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/technology/</guid>
       <description></description>
     </item>
     
