@@ -17,7 +17,7 @@ My more nuanced answer (if you've got the patience for it) is: If techology is d
 
 What i want is: the fastest, most frictionless possible workflow from my mobile phone to this blog -managed on my desktop and mirrored to the cloud in my own domain- with fully responive display on any device.  As a ReFarmer, i want this to keep my daily farm diary in a way that is both hi-fi AND sustainble, without giving up control to powers that i can't really trust.
 
-- testing: -
+----- _testing:_ -----
 
 Followihg advice in [this article](https://gohugo.io/content-management/shortcodes/), here is how to share photos from Instagram.  First find the image you want on Instagram site, click the share link, and select "copy link" to get the URL, where you can find the ID code of image embedded.  Take that code, and use it as argument in the following shortcodes:
 
