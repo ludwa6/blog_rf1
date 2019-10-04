@@ -6,10 +6,21 @@
     <description>Recent content on ReFarmer.Net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drawdown vs. Energy Descent</title>
+      <link>/post/drawdown-vs-energy-descent/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/drawdown-vs-energy-descent/</guid>
+      <description>Reflecting on David Holmgren&amp;rsquo;s Future Scenarios, it looks on the face of it like a pretty realistic (if grim) analysis&amp;hellip; But i wonder if it&amp;rsquo;s not somewhat flawed.
+Couple of things that come immediately to mind for me:
+ Population Growth: it is indeed growing, but by most accounts- in this domain of expertise, Hans Rosling  is my most trusted source -will soon plateau at the level of around 11bn.</description>
+    </item>
     
     <item>
       <title>To Chip, or Not To Chip?</title>
