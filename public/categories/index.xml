@@ -29,11 +29,38 @@
     </item>
     
     <item>
+      <title>Howto</title>
+      <link>/categories/howto/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/howto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Log</title>
       <link>/categories/log/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muse</title>
+      <link>/categories/muse/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/muse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Grow</title>
+      <link>/categories/project-grow/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/project-grow/</guid>
       <description></description>
     </item>
     

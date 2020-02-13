@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muse on ReFarmer.Net</title>
+    <title>Muse on ReFarmer.Net  ::  Developer Version</title>
     <link>/categories/muse/</link>
-    <description>Recent content in Muse on ReFarmer.Net</description>
+    <description>Recent content in Muse on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/muse/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drawdown vs. Energy Descent</title>
+      <link>/post/drawdown-vs-energy-descent/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/drawdown-vs-energy-descent/</guid>
+      <description>Reflecting on David Holmgren&amp;rsquo;s Future Scenarios, it looks on the face of it like a pretty realistic (if grim) analysis&amp;hellip; But i wonder if it&amp;rsquo;s not somewhat flawed.
+Couple of things that come immediately to mind for me:
+ Population Growth: it is indeed growing, but by most accounts- in this domain of expertise, Hans Rosling  is my most trusted source -will soon plateau at the level of around 11bn.</description>
+    </item>
     
     <item>
       <title>Permaculture, 10 years into it</title>
@@ -19,16 +30,6 @@
       <guid>/post/permaculture-10-years-into-it/</guid>
       <description>Since hosting our first PDC (Permaculture Design Course) here on the farm some 10 years ago, and having since then gained a measure of fame for our applications of this particular design science, i want to take a few moments here for celebration and critical reflection on that experience.
 One project in particular stands out for me as reflecting pretty much the entire rainbow of possibilities: the light, the dark, and everything in between.</description>
-    </item>
-    
-    <item>
-      <title>The Spirit in which we do</title>
-      <link>/post/the-spirit-in-which-we-do/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/the-spirit-in-which-we-do/</guid>
-      <description>&amp;ldquo;It matters not what you do so much as the spirit in which you do it&amp;rdquo;
-Once upon a time, i fell in love with a woman -and when it became quite serious, i got a hand-written letter from this woman&amp;rsquo;s best friend, in which she wrote: &amp;ldquo;This woman you claim to love, she is like fine crystal: Beautiful, as you know. Strong also -surprisingly so, yes? But you must know that, if you touch her without love, she will break.</description>
     </item>
     
   </channel>

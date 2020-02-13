@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/post/drawdown-vs-energy-descent/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/collective-impact/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
@@ -33,6 +38,21 @@
   </url>
   
   <url>
+    <loc>/post/to-chip-or-not-to-chip/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/visualising-soil-moisture/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fruticulture-toughlove/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/open-heart-tree-surgery/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
@@ -45,6 +65,11 @@
   <url>
     <loc>/post/emoji-list/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/soil-test-methods-tech/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,6 +143,16 @@
   </url>
   
   <url>
+    <loc>/post/real-organic-standards/</loc>
+    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/permaculture-10-years-into-it/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/learn-markdown/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
@@ -133,6 +168,11 @@
   </url>
   
   <url>
+    <loc>/post/mobile-photo-blogging/</loc>
+    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
@@ -140,6 +180,12 @@
   <url>
     <loc>/tags/2pub/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/agroforestry/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,6 +208,12 @@
   
   <url>
     <loc>/blogdownhowto/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/howto/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -189,6 +241,18 @@
   </url>
   
   <url>
+    <loc>/categories/muse/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/permaculture/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -201,14 +265,32 @@
   </url>
   
   <url>
+    <loc>/categories/project-grow/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/regenag/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/rmd/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/staging/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -221,6 +303,12 @@
   <url>
     <loc>/categories/techhow/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

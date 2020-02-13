@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Grow on ReFarmer.Net</title>
+    <title>Project Grow on ReFarmer.Net  ::  Developer Version</title>
     <link>/categories/project-grow/</link>
-    <description>Recent content in Project Grow on ReFarmer.Net</description>
+    <description>Recent content in Project Grow on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/project-grow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GROW Observatory: making an impact</title>
-      <link>/post/grow-observatory-making-an-impact/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Visualising Soil Moisture</title>
+      <link>/post/visualising-soil-moisture/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/grow-observatory-making-an-impact/</guid>
-      <description>Since joining this project last August, we&amp;rsquo;ve deployed a whole lot of soil sensors across our landscape and spent more than a few hours collecting and uploading data, without having any real sense of the big picture, i.e.: What is the full scope and distribution of this Citizens Observatory? and what insight can we derive from the data gathered thus far?
-Well&amp;hellip; Results are only just starting to come back from The Observatory, but the picture is pretty encouraging already, at least a far as the first question is concerned.</description>
+      <guid>/post/visualising-soil-moisture/</guid>
+      <description>It’s been a long haul, and before the rainy season comes around again….</description>
     </item>
     
   </channel>

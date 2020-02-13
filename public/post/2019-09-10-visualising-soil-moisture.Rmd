@@ -1,0 +1,15 @@
+---
+title: Visualising Soil Moisture
+author: Walt Ludwick
+date: '2019-09-10'
+slug: visualising-soil-moisture
+categories:
+  - Project GROW
+tags:
+  - technology
+description: ''
+thumbnail: ''
+---
+It's been a long haul, and before the rainy season comes around again....
+
+<img src="/post/2019-09-10-visualising-soil-moisture_files/my-data,dashboard.jpeg" alt="" width="100%" height="Auto"/>

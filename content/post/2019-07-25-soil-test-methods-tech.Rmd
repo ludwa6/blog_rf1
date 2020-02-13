@@ -1,0 +1,18 @@
+---
+title: Soil Test Methods & Tech
+author: Walt Ludwick
+date: '2019-07-25'
+slug: soil-test-methods-tech
+categories:
+  - HowTo
+tags:
+  - RegenAg
+description: ''
+thumbnail: ''
+---
+
+Having experimented with many forms of soil testing over the years, from simple DIY jar tests to the most sophisticated lab tests and everything in between, i can't say as i've yet found a method that is both sufficiently rigorous AND agile enough that we can commit to doing on a broad enough scale and long enough timetable to inform good decision-making here on the farm.
+
+That being said: [this "Sector Mentor for Soils" app](https://soils.sectormentor.com/soil-tests/) looks pretty promising on the face of it -and comes well-recommended by my Regrarians Workplace colleague [Stephen Barrow](https://regrarians.workplace.com/profile.php?id=100022686592902&__tn__=%2CdlC-R-R&eid=ARCp45oHyTTWVzmxnAatZNDS4zASZMaER-thBuzWHuIhU11rhp7eO2jTLCdV1chUvtKOTz7nhaEkMx7Q&hc_ref=ARQZjOF4Q1u6cDEXlayIIkeiDk5BiHTElgeglUk0Vkldh4elc-Muv1a6fuZQY8Trdw4), so i might give it a try...
+
+... Pending satisfactory answer to my inquiry about data portability, just sent.  What i'd love to hear back from the vendor is that it's got a RESTful API to enable interoperability with other online software -particularly farmOS, which is the platform i am evaluating right now for essentially all our farm record-keeping.  At the very least, it must enable easy export of any/all data in form of .CSV files;  absent that, i'll have to consider this one just another Roach Motel, alas, and walk on by.

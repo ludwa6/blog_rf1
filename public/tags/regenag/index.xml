@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regenag on ReFarmer.Net</title>
+    <title>Regenag on ReFarmer.Net  ::  Developer Version</title>
     <link>/tags/regenag/</link>
-    <description>Recent content in Regenag on ReFarmer.Net</description>
+    <description>Recent content in Regenag on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/regenag/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drawdown vs. Energy Descent</title>
+      <link>/post/drawdown-vs-energy-descent/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/drawdown-vs-energy-descent/</guid>
+      <description>Reflecting on David Holmgren&amp;rsquo;s Future Scenarios, it looks on the face of it like a pretty realistic (if grim) analysis&amp;hellip; But i wonder if it&amp;rsquo;s not somewhat flawed.
+Couple of things that come immediately to mind for me:
+ Population Growth: it is indeed growing, but by most accounts- in this domain of expertise, Hans Rosling  is my most trusted source -will soon plateau at the level of around 11bn.</description>
+    </item>
+    
+    <item>
+      <title>To Chip, or Not To Chip?</title>
+      <link>/post/to-chip-or-not-to-chip/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/to-chip-or-not-to-chip/</guid>
+      <description>If a picture is worth a thousand words, then here’s a story-in-pix that should be worth a good ten grand:
+Woody Waste -&amp;gt; Black Gold   PS to the story: We’ve still got mountains of woody waste lying around… And now we’re back into heavy pruning once again! Little branches of young soft fruit trees are not such a problem, but gnarly old wood like we have coming out of our orange orchard is another story.</description>
+    </item>
+    
+    <item>
+      <title>Soil Test Methods &amp; Tech</title>
+      <link>/post/soil-test-methods-tech/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/soil-test-methods-tech/</guid>
+      <description>Having experimented with many forms of soil testing over the years, from simple DIY jar tests to the most sophisticated lab tests and everything in between, i can’t say as i’ve yet found a method that is both sufficiently rigorous AND agile enough that we can commit to doing on a broad enough scale and long enough timetable to inform good decision-making here on the farm.
+That being said: this “Sector Mentor for Soils” app looks pretty promising on the face of it -and comes well-recommended by my Regrarians Workplace colleague Stephen Barrow, so i might give it a try…</description>
+    </item>
     
     <item>
       <title>REAL Organic Standards</title>
