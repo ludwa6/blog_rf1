@@ -1,0 +1,19 @@
+---
+title: Youtube video embed
+author: Walt Ludwick
+date: '2019-07-07'
+categories:
+  - TechHow
+tags:
+  - Youtube
+slug: video-embed-using-shortcode
+---
+
+
+
+<p>Following <a href="https://www.r-bloggers.com/use-shortcodes-to-embed-tweets-videos-etc-in-your-blogdown-blog-posts/">online tutorial</a>, here’s that paragliding video Pete shot yesterday:</p>
+<pre class="r"><code>blogdown::shortcode(&quot;youtube&quot;, &quot;yClRNHefT1M&quot;)</code></pre>
+{{% youtube "yClRNHefT1M" %}}
+<p>There: how does that show up? Here’s another way to do, from <a href="https://gohugo.io/content-management/shortcodes/">goHugo site</a>:</p>
+<p>{{% youtube yClRNHefT1M %}}</p>
+<p>Ah: that one works better -the code is obscured (NB: i followed text of article, not the video kid, because his &lt;&gt; bracketing arguments didn’t work; instead it was % signs bracketing arguments that worked)</p>

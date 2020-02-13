@@ -3,78 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/real-organic-standards/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <loc>/post/winter-refarming/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/permaculture-10-years-into-it/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <loc>/post/focus-okrs-and-gtd/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/paragliding-cordoama/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <loc>/post/collective-impact/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/refarming-both-landscape-and-infoscape/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>/post/launch-refarmer-net/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/bionutrient-food-association/</loc>
-    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <loc>/post/orid-revisited/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/celebrating-life/</loc>
-    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <loc>/post/shordurpersav/</loc>
+    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/farm-os/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <loc>/post/open-heart-tree-surgery/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/holistic-planned-grazing-1/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+    <loc>/post/chuva-de-amendoas/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mobile-photo-blogging/</loc>
-    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+    <loc>/post/emoji-list/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/climbers/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <loc>/post/frameworks-for-refarming/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/grow-observatory-making-an-impact/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+    <loc>/post/homage-to-james-lovelock/</loc>
+    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/data-visualisation-1/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/post/about-rf1-dev/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/shiny-app-publishing/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>/post/embed-photo-album-from-imgur/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/blogging-in-rstudio/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>/post/deleting-content/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/instagram-embed/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tweet-embedding/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/reference-links-the-wiki-way/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/taxonomy-development/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/use-case-template/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/workflow-for-writing/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/video-embed-using-shortcode/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/merlin-mann-s-advice/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/workplan-tests-results/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/learn-markdown/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/the-spirit-in-which-we-do/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/r-markdown-testing/</loc>
+    <lastmod>2019-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +138,25 @@
   </url>
   
   <url>
+    <loc>/tags/2pub/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/collective-impact/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/development/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,80 +165,86 @@
   </url>
   
   <url>
-    <loc>/categories/howto/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/meta/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>/tags/imgur/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/muse/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <loc>/tags/instagram/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/permaculture/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+    <loc>/categories/log/</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/project-grow/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>/tags/private/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regenag/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/shiny/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/staging/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <loc>/tags/rmd/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/techhow/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wl/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/workflow/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/youtube/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

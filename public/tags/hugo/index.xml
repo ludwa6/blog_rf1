@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in Hugo on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deleting Content</title>
+      <link>/post/deleting-content/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deleting-content/</guid>
+      <description>The “Blogdown” package to RStudio provides a nice easy UI (i.e. its “Addins”&#34; menu) to push content thru Hugo to the web (via Github and Netlify)… But it has no affordance for the deletion of posts; for this you must go into the Hugo filesystem… Not so easy as i had hoped, alas, but doable. Here’s how:
+In RStudio’s file browswer, navigate to /content/post/ , tick box of content item(s) you want gone, and click Delete.</description>
+    </item>
+    
+  </channel>
+</rss>

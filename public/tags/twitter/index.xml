@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/twitter/</link>
+    <description>Recent content in Twitter on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tweet embedding</title>
+      <link>/post/tweet-embedding/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tweet-embedding/</guid>
+      <description>Following advice in this article, here is how to embed a tweet. First, get the URL of the tweet, get the ID of tweet from its URL (i.e. “Copy link to tweet” from the “more” dropdown arrow in top RH corner of tweet display on twitter), and input that as argument in the following shortcode:
+Excited to say that our pub is out! How #openscience #datascience #rstats has improved our science https://t.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+---
+title: R Markdown testing
+author: Walt Ludwick
+date: '2019-06-26'
+categories:
+  - TechHow
+tags:
+  - (R)MD
+slug: r-markdown-testing
+---
+So what's the diff, .Rmd vs .md?  Let's see...
+
+## is this a line of commentary?
+Yup, it is -that is to say, collapsible, and does not execute as code- but it does show up as header in blog... And it can have any number of hashtags, which do control size of header.
+
+### so here's another line of commentary, with 3 hashtags
+and here's the text that is contained
+
+### and here's another such
+so i can have anothe line of text...
+>and i can write a code block like this
+see how cool that is?  works in Atom's Markdown preview
+unfortunately, when i "serve site' in RStudio, it displays all the above lines run together with no highlighting... So let's break pgph here.
+
+And now i'm back to normal.  now to toggle preview, it's control shift m

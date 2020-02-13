@@ -1,0 +1,15 @@
+---
+title: Embed Photo album from IMGUR
+author: Walt Ludwick
+date: '2019-07-10'
+slug: embed-photo-album-from-imgur
+categories:
+  - TechHow
+tags:
+  - Imgur
+description: ''
+thumbnail: ''
+---
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/LicrZ"><a href="//imgur.com/a/LicrZ">Mediterranean Food Forest, January 2018</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+So that's how it shows up, when you just copy embed code from an Imgur album (kinda hard to find: look just below comment section on last image in the post, that row of social media sharing icons, under the ... at far RH end of the line), and just paste the code directly into a Blogdown post.  It doesn't give you a gallery widget on your own site;  just a view of the first image w/ caption, that is linked to the full album on Imgur.com... But this could be useful in some cases.

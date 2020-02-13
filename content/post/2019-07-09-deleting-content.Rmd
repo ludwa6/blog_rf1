@@ -1,0 +1,20 @@
+---
+title: Deleting Content
+author: Walt Ludwick
+date: '2019-07-09'
+slug: deleting-content
+categories:
+  - TechHow
+tags:
+  - Hugo
+description: ''
+thumbnail: ''
+---
+The "Blogdown" package to RStudio provides a nice easy UI (i.e. its "Addins"" menu) to push content thru Hugo to the web (via Github and Netlify)... But it has no affordance for the deletion of posts; for this you must go into the Hugo filesystem... Not so easy as i had hoped, alas, but doable.  Here's how:
+
+1. In RStudio's file browswer, navigate to /content/post/ , tick box of content item(s) you want gone, and click Delete.
+2. Also check /public/post/ for file(s) and/or folder(s) related to such content, and -again, tick boxes and Delete.
+3. Open the index.html file, search for the post title(s), and delete all related html (this is the tricky bit); then
+4. Push these deletions thru GitHub to Netlify
+
+Check the site thru your browser to ensure that content is gone.

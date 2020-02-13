@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techhow on ReFarmer.Net  ::  Developer Version</title>
+    <link>/categories/techhow/</link>
+    <description>Recent content in Techhow on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/techhow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emoji list</title>
+      <link>/post/emoji-list/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/emoji-list/</guid>
+      <description>This comprehensive list seems to work almost perfectly&amp;hellip;
+But i can only see myself using a tiny subset, i.e.:
+ Reactions: 😃 , ❤️ , 💤 , 👍 , 👎 , ❓, ❗️ , Farm-related: 🐔 , 🐑 , :donkey:  </description>
+    </item>
+    
+    <item>
+      <title>Embed Photo album from IMGUR</title>
+      <link>/post/embed-photo-album-from-imgur/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/embed-photo-album-from-imgur/</guid>
+      <description>Mediterranean Food Forest, January 2018   So that’s how it shows up, when you just copy embed code from an Imgur album (kinda hard to find: look just below comment section on last image in the post, that row of social media sharing icons, under the … at far RH end of the line), and just paste the code directly into a Blogdown post. It doesn’t give you a gallery widget on your own site; just a view of the first image w/ caption, that is linked to the full album on Imgur.</description>
+    </item>
+    
+    <item>
+      <title>Deleting Content</title>
+      <link>/post/deleting-content/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deleting-content/</guid>
+      <description>The “Blogdown” package to RStudio provides a nice easy UI (i.e. its “Addins”&#34; menu) to push content thru Hugo to the web (via Github and Netlify)… But it has no affordance for the deletion of posts; for this you must go into the Hugo filesystem… Not so easy as i had hoped, alas, but doable. Here’s how:
+In RStudio’s file browswer, navigate to /content/post/ , tick box of content item(s) you want gone, and click Delete.</description>
+    </item>
+    
+    <item>
+      <title>Instagram embed</title>
+      <link>/post/instagram-embed/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/instagram-embed/</guid>
+      <description>Followihg advice in this article, here is how to share photos from Instagram. First find the image you want on Instagram site, click the share link, and select “copy link” to get the URL, where you can find the ID code of image embedded. Take that code, and use it as argument in the following shortcodes:
+   View this post on Instagram        Come be a part of our team!</description>
+    </item>
+    
+    <item>
+      <title>Tweet embedding</title>
+      <link>/post/tweet-embedding/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tweet-embedding/</guid>
+      <description>Following advice in this article, here is how to embed a tweet. First, get the URL of the tweet, get the ID of tweet from its URL (i.e. “Copy link to tweet” from the “more” dropdown arrow in top RH corner of tweet display on twitter), and input that as argument in the following shortcode:
+Excited to say that our pub is out! How #openscience #datascience #rstats has improved our science https://t.</description>
+    </item>
+    
+    <item>
+      <title>Youtube video embed</title>
+      <link>/post/video-embed-using-shortcode/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/video-embed-using-shortcode/</guid>
+      <description>Following online tutorial, here’s that paragliding video Pete shot yesterday:
+blogdown::shortcode(&amp;quot;youtube&amp;quot;, &amp;quot;yClRNHefT1M&amp;quot;)   There: how does that show up? Here’s another way to do, from goHugo site:
+  Ah: that one works better -the code is obscured (NB: i followed text of article, not the video kid, because his &amp;lt;&amp;gt; bracketing arguments didn’t work; instead it was % signs bracketing arguments that worked)</description>
+    </item>
+    
+    <item>
+      <title>Merlin Mann’s advice</title>
+      <link>/post/merlin-mann-s-advice/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/merlin-mann-s-advice/</guid>
+      <description>Best advice i ever heard for wanna be bloggers came from a guy whose stuff i used to lap up eagerly, every morsel he ever released, until he went silent quite some time ago (he’s still alive -i’ve checked- i think he just got tired of his own schtick). The man is Merlin Mann, and this came from a presentation he did entitled “How to Blog” -which video i did see, a good few years ago; can’t find it now, but i did find his SlideShare deck -notes from which are cribbed below, because i don’t wanna lose this stuff, it’s important.</description>
+    </item>
+    
+    <item>
+      <title>Learn Markdown</title>
+      <link>/post/learn-markdown/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-markdown/</guid>
+      <description>Between Markdown and RMarkdown -and Pandoc and CommonMark and all the site-specific flavors: GitHub, StackExchange, reddit, etc. - i am really confused as to which to learn. The starting point, it seems to me, should be the highest COMMON denominator -which, given all these variants, is probably a pretty small set, i reckon (Gruber&amp;rsquo;s maybe?) Anyway: I post below the Help file from MacDown, the desktop tool i find handiest for testing my markdown; let&amp;rsquo;s compare how Hugo parses this with how MacDown does, and see if there&amp;rsquo;s anything to worry about here.</description>
+    </item>
+    
+    <item>
+      <title>R Markdown testing</title>
+      <link>/post/r-markdown-testing/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-markdown-testing/</guid>
+      <description>So what’s the diff, .Rmd vs .md? Let’s see…
+is this a line of commentary? Yup, it is -that is to say, collapsible, and does not execute as code- but it does show up as header in blog… And it can have any number of hashtags, which do control size of header.
+so here’s another line of commentary, with 3 hashtags and here’s the text that is contained
+ and here’s another such so i can have anothe line of text… &amp;gt;and i can write a code block like this see how cool that is?</description>
+    </item>
+    
+  </channel>
+</rss>

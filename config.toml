@@ -1,18 +1,19 @@
 baseurl = "/"
-title = "ReFarmer.Net"
+title = "ReFarmer.Net  ::  Developer Version"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+enableEmoji = true
 
 [Author]
   name = "Walt Ludwick"
-  bio = "Walt is a grizzled old fart -too late to this game, but giving it a go anyway."
+  bio = "A closet ReFarmer for too long -out now, and making up for lost time!"
   avatar = "img/w_avatar.png"
 
 [Params]
-  subtitle = "Keep Calm, and ReFarm On!" # Subtitle of your site
+  subtitle = "Keep Calm, and ReFactor On!" # Subtitle of your site
   description = "a blog for Regenerative Farmers everywhere" # Description of your site
   opengraph = true
   twitter_cards = false

@@ -1,0 +1,55 @@
+---
+title: Workplan, tests, results
+author: Walt Ludwick
+date: '2019-06-30'
+categories:
+  - Log
+tags:
+  - (R)MD
+slug: workplan-tests-results
+---
+
+Copied over, from a .md file to .rmd
+
+## Tests/ Results
+
+- Create a new post, with a new author (me) -CHECK
+- edit metadata: roll back create date 1 day -CHECK
+  - it works, if you tick the box to change slug, etc. (is how i screwed up last blog3)
+- changed author attribution -CHECK -PORTED TO BLOG2
+  - put w_avatar.png in the /themes/Mainroad/static/img folder (alongside default avatar.png)
+    - NB: it got copied (dupe) to /public/img/ folder, when i served the site
+  - changed config.toml file with my name, byline and avatar
+- put 2 static files (colheitas.pdf and permaculture_article.pdf) on blog2 -DONE... but test on actual blog
+  - had to change name of 2nd file (machine didn't like PM#91,RegenerativeFarming.pdf)
+  - the Viewer in RStudio doesn't view the file; pops it not in browser, but launches Preview!
+- put link to image
+  - does pop in the web browser, direct from imgur...
+  - but an inline image (same ref, but w/ ! before opening bracket) only displays with online site
+
+## NOW:  work on structure, taxonomy:
+
+- FarmLog
+- Networking
+- HowTo
+- Reviews
+- Muse
+
+
+## NEXT:  developing Permaculture article, in blog2, to push live: -----
+
+DONE:
+
+- Metadata done -do the head, deck, lead, closing (footer)
+
+TODO:
+
+- bring in each subsection (esp the important links)
+
+## Later:
+- ReFactor content
+  - take personal post out of blog3, killing related cat & tag, and move to blog2
+- Learn how to do images, and document (cat and tag appropriately)
+  - stored onsite: getting the sizes right, documenting where they go
+  - linked (from Imgur, from Google), getting the sizes right
+- Add favicon, and postage-stamp version in the Title bar

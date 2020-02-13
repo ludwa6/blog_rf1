@@ -1,0 +1,20 @@
+---
+title: Instagram embed
+author: Walt Ludwick
+date: '2019-07-08'
+categories:
+  - TechHow
+tags:
+  - instagram
+slug: instagram-embed
+---
+Followihg advice in [this article](https://gohugo.io/content-management/shortcodes/), here is how to share photos from Instagram.  First find the image you want on Instagram site, click the share link, and select "copy link" to get the URL, where you can find the ID code of image embedded.  Take that code, and use it as argument in the following shortcodes:
+
+{{% instagram Bs-qjsYHeou %}}
+
+And here it is again, without caption: 
+
+{{% instagram Bs-qjsYHeou hidecaption %}}
+
+NB: the article suggest using <> inside curly braces around the shortcode & ID, but it doesn't work -use % marks instead.
+

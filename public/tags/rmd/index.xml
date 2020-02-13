@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmd on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/rmd/</link>
+    <description>Recent content in Rmd on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rmd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ABOUT: rf1,Dev</title>
+      <link>/post/about-rf1-dev/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/about-rf1-dev/</guid>
+      <description>At this point i have to say: i’m feeling good right now, because it seems like i have finally found a way to cultivate the habit of writing in a form that works for me personally, can support my work on the farm, and can (eventually) reach a wider audience to achieve a (eventually) growing measure of collective impact… And the foundation of this approach is right here rf1,Dev blog.</description>
+    </item>
+    
+    <item>
+      <title>Reference Links: the wiki way(?)</title>
+      <link>/post/reference-links-the-wiki-way/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reference-links-the-wiki-way/</guid>
+      <description> This is about creating a shorthand so i don’t have to type out the full web address of a certain resource, every time i want to point to it.
+Testing Reference Links So here’s a list of those:
+ The Farm’s website Walt’s ReFarm Blog Walt’s GitHub Pages site  And that’s how it looks
+ </description>
+    </item>
+    
+    <item>
+      <title>Use Case template</title>
+      <link>/post/use-case-template/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-case-template/</guid>
+      <description> Use Case 1: (Target) Title (Type)  Primary Actor: User Scope: Software system Level: Summary / User Goal  Main success scenario: … … …   Extensions:  1a. … 3a. … 3b. …   Variations: 2’. …
+  </description>
+    </item>
+    
+    <item>
+      <title>Workplan, tests, results</title>
+      <link>/post/workplan-tests-results/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workplan-tests-results/</guid>
+      <description>Copied over, from a .md file to .rmd
+Tests/ Results  Create a new post, with a new author (me) -CHECK edit metadata: roll back create date 1 day -CHECK  it works, if you tick the box to change slug, etc. (is how i screwed up last blog3)  changed author attribution -CHECK -PORTED TO BLOG2  put w_avatar.png in the /themes/Mainroad/static/img folder (alongside default avatar.png)  NB: it got copied (dupe) to /public/img/ folder, when i served the site  changed config.</description>
+    </item>
+    
+    <item>
+      <title>Learn Markdown</title>
+      <link>/post/learn-markdown/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-markdown/</guid>
+      <description>Between Markdown and RMarkdown -and Pandoc and CommonMark and all the site-specific flavors: GitHub, StackExchange, reddit, etc. - i am really confused as to which to learn. The starting point, it seems to me, should be the highest COMMON denominator -which, given all these variants, is probably a pretty small set, i reckon (Gruber&amp;rsquo;s maybe?) Anyway: I post below the Help file from MacDown, the desktop tool i find handiest for testing my markdown; let&amp;rsquo;s compare how Hugo parses this with how MacDown does, and see if there&amp;rsquo;s anything to worry about here.</description>
+    </item>
+    
+    <item>
+      <title>R Markdown testing</title>
+      <link>/post/r-markdown-testing/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-markdown-testing/</guid>
+      <description>So what’s the diff, .Rmd vs .md? Let’s see…
+is this a line of commentary? Yup, it is -that is to say, collapsible, and does not execute as code- but it does show up as header in blog… And it can have any number of hashtags, which do control size of header.
+so here’s another line of commentary, with 3 hashtags and here’s the text that is contained
+ and here’s another such so i can have anothe line of text… &amp;gt;and i can write a code block like this see how cool that is?</description>
+    </item>
+    
+  </channel>
+</rss>

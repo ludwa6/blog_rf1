@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on ReFarmer.Net  ::  Developer Version</title>
+    <link>/categories/workflow/</link>
+    <description>Recent content in Workflow on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ABOUT: rf1,Dev</title>
+      <link>/post/about-rf1-dev/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/about-rf1-dev/</guid>
+      <description>At this point i have to say: i’m feeling good right now, because it seems like i have finally found a way to cultivate the habit of writing in a form that works for me personally, can support my work on the farm, and can (eventually) reach a wider audience to achieve a (eventually) growing measure of collective impact… And the foundation of this approach is right here rf1,Dev blog.</description>
+    </item>
+    
+    <item>
+      <title>Workflow for Writing</title>
+      <link>/post/workflow-for-writing/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workflow-for-writing/</guid>
+      <description>Key design goal here is “notational velocity” -to capture ideas at speed of thought, and implement them before all the motivation is gone- and for this, my primary working tool is an outliner…. So i’m going to use headings.
+Main Success Scenario Writing in DynaList  Create post in Blogdown  Paste in content from DynaList; work it over in  Text editing in Atom Let’s test these invisible links: to my Github, to VdL.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workplan, tests, results</title>
+      <link>/post/workplan-tests-results/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workplan-tests-results/</guid>
+      <description>Copied over, from a .md file to .rmd
+Tests/ Results  Create a new post, with a new author (me) -CHECK edit metadata: roll back create date 1 day -CHECK  it works, if you tick the box to change slug, etc. (is how i screwed up last blog3)  changed author attribution -CHECK -PORTED TO BLOG2  put w_avatar.png in the /themes/Mainroad/static/img folder (alongside default avatar.png)  NB: it got copied (dupe) to /public/img/ folder, when i served the site  changed config.</description>
+    </item>
+    
+  </channel>
+</rss>

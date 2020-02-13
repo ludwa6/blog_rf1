@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on ReFarmer.Net  ::  Developer Version</title>
+    <link>/categories/development/</link>
+    <description>Recent content in Development on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launch ReFarmer.Net</title>
+      <link>/post/launch-refarmer-net/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launch-refarmer-net/</guid>
+      <description>It&amp;rsquo;s time. My public blog is out there, but rather an embarrassment, in need of some cleanup &amp;amp; all-around love&amp;hellip; And i need to be pushing out coms right now, in the directin of achieving Collective Impact, while asserting my identity as ReFarmer #1.
+MEANWHILE: I must use this dev platform for all it&amp;rsquo;s worth, to develop both my chops as a writer, and the technology to support my craft. Simple as it is, this UI and taxonomic model, i don&amp;rsquo;t actually know how it will work over time as a useful writers notebook.</description>
+    </item>
+    
+    <item>
+      <title>Frameworks for ReFarming</title>
+      <link>/post/frameworks-for-refarming/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/frameworks-for-refarming/</guid>
+      <description>Eliot Coleman’s “REAL Organic” Standards -condensed:
+First, for uncompromised nutritional value all crops must be grown in a biologically active, fertile soil attached to the earth and nourished by the natural biological activities of that soil. There are so many important soil processes that we could not replace even if we wanted to, because we are still unaware of all the benefits they contribute. Second, soil fertility should be maintained principally with farm-derived organic matter and mineral particles from ground rock.</description>
+    </item>
+    
+    <item>
+      <title>Reference Links: the wiki way(?)</title>
+      <link>/post/reference-links-the-wiki-way/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reference-links-the-wiki-way/</guid>
+      <description> This is about creating a shorthand so i don’t have to type out the full web address of a certain resource, every time i want to point to it.
+Testing Reference Links So here’s a list of those:
+ The Farm’s website Walt’s ReFarm Blog Walt’s GitHub Pages site  And that’s how it looks
+ </description>
+    </item>
+    
+    <item>
+      <title>Taxonomy Development</title>
+      <link>/post/taxonomy-development/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/taxonomy-development/</guid>
+      <description>To make this site into a useful rsource, even just (especially!) for myself, i need a taxonomy (i.e. Categories and Tags, essentially… Plus any ancillary elements in the site navigation: menu bar, sidebar, naming conventions, etc.) that will make it easy to find (i.e. search and filter) content whenever i need it quickly.
+Key concepts under consideration:  Categories are mandatory and mutually exclusive; each post must be assigned to one and only one category  cool: just discovered i can change a cat.</description>
+    </item>
+    
+    <item>
+      <title>Use Case template</title>
+      <link>/post/use-case-template/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-case-template/</guid>
+      <description> Use Case 1: (Target) Title (Type)  Primary Actor: User Scope: Software system Level: Summary / User Goal  Main success scenario: … … …   Extensions:  1a. … 3a. … 3b. …   Variations: 2’. …
+  </description>
+    </item>
+    
+  </channel>
+</rss>

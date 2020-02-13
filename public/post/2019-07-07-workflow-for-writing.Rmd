@@ -1,0 +1,25 @@
+---
+title: Workflow for Writing
+author: Walt Ludwick
+date: '2019-07-07'
+slug: workflow-for-writing
+categories:
+  - workflow
+tags: []
+description: ''
+thumbnail: ''
+---
+Key design goal here is "notational velocity" -to capture ideas at speed of thought, and implement them before all the motivation is gone- and for this, my primary working tool is an outliner.... So i'm going to use headings.
+
+## Main Success Scenario
+### Writing in DynaList
+### Create post in Blogdown
+### Paste in content from DynaList; work it over in
+### Text editing in Atom
+
+Let's test these invisible links: to [my Github], to [VdL.net]
+
+___
+[rf1]: https://refarmer.net  
+[my Github]: https://ludwa6.github.com  
+[VdL.net]: https://www.valedalama.net/en/

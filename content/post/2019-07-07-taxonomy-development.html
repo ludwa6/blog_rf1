@@ -1,0 +1,41 @@
+---
+title: Taxonomy Development
+author: Walt Ludwick
+date: '2019-07-07'
+slug: taxonomy-development
+categories:
+  - Development
+tags:
+  - WL
+description: ''
+thumbnail: ''
+---
+
+
+
+<p>To make this site into a useful rsource, even just (especially!) for myself, i need a taxonomy (i.e. Categories and Tags, essentially… Plus any ancillary elements in the site navigation: menu bar, sidebar, naming conventions, etc.) that will make it easy to find (i.e. search and filter) content whenever i need it quickly.</p>
+<div id="key-concepts-under-consideration" class="section level3">
+<h3>Key concepts under consideration:</h3>
+<ul>
+<li>Categories are mandatory and mutually exclusive; each post must be assigned to one and only one category
+<ul>
+<li>cool: just discovered i can change a cat. name in the TOML of only post that references it (this one)</li>
+<li>not cool: the way Hugo theme concatenates names, removes special char’s (e.g. &amp;) and changes CamelCase to Camelcase</li>
+</ul></li>
+<li>Tags are optional and can overlapping: a post can have any nuumber of tags from 0:many
+<ul>
+<li>more coolness! to eliminate a tag, filter by it to see all articles that use it, eliminate it from the TOML of each one… and Poof! tag disappears from navigation.</li>
+</ul></li>
+</ul>
+</div>
+<div id="related-issues" class="section level3">
+<h3>Related issues:</h3>
+<ul>
+<li>Julie Evans (interesting on many levels) has posted <a href="https://jvns.ca/blog/2019/02/17/organizing-this-blog-into-categories/">interesting thoughts</a> on this issue, results of which are evident on her blog (subscribed in NNW under “To Study”).</li>
+<li>RSS enables alternative views on the site that enhance utility; i only know how to add feeds that are on web (like my blog in production), but remember this in authoring for utility.</li>
+<li>Don’t go too far in this one, because -w/o a web enabled view- it’s of limited utility
+<ul>
+<li>fixed! see <a href="http://127.0.0.1:4321/post/taxonomy-development/">local view of this site</a>; like this, i don’t even need to “serve site” and keep shifting to viewer</li>
+</ul></li>
+</ul>
+</div>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reference Links: the wiki way(?)</title>
+      <link>/post/reference-links-the-wiki-way/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reference-links-the-wiki-way/</guid>
+      <description> This is about creating a shorthand so i don’t have to type out the full web address of a certain resource, every time i want to point to it.
+Testing Reference Links So here’s a list of those:
+ Walt’s ReFarm Blog Walt’s GitHub Pages site The Farm’s website  And that’s how it looks.
+Invisible Links:        </description>
+    </item>
+    
+  </channel>
+</rss>

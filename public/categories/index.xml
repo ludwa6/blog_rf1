@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ReFarmer.Net</title>
+    <title>Categories on ReFarmer.Net  ::  Developer Version</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on ReFarmer.Net</description>
+    <description>Recent content in Categories on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,56 +11,47 @@
     
     
     <item>
-      <title>Howto</title>
-      <link>/categories/howto/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Collective Impact</title>
+      <link>/categories/collective-impact/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/howto/</guid>
+      <guid>/categories/collective-impact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Meta</title>
-      <link>/categories/meta/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Development</title>
+      <link>/categories/development/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/meta/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Muse</title>
-      <link>/categories/muse/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Log</title>
+      <link>/categories/log/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/muse/</guid>
+      <guid>/categories/log/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project Grow</title>
-      <link>/categories/project-grow/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Techhow</title>
+      <link>/categories/techhow/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/project-grow/</guid>
+      <guid>/categories/techhow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Workflow</title>
+      <link>/categories/workflow/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shiny</title>
-      <link>/categories/shiny/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/shiny/</guid>
+      <guid>/categories/workflow/</guid>
       <description></description>
     </item>
     

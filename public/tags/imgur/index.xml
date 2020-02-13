@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imgur on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/imgur/</link>
+    <description>Recent content in Imgur on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/imgur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open-Heart Tree Surgery</title>
+      <link>/post/open-heart-tree-surgery/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/open-heart-tree-surgery/</guid>
+      <description> Open-Heart Tree Surgery   </description>
+    </item>
+    
+    <item>
+      <title>Embed Photo album from IMGUR</title>
+      <link>/post/embed-photo-album-from-imgur/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/embed-photo-album-from-imgur/</guid>
+      <description>Mediterranean Food Forest, January 2018   So that’s how it shows up, when you just copy embed code from an Imgur album (kinda hard to find: look just below comment section on last image in the post, that row of social media sharing icons, under the … at far RH end of the line), and just paste the code directly into a Blogdown post. It doesn’t give you a gallery widget on your own site; just a view of the first image w/ caption, that is linked to the full album on Imgur.</description>
+    </item>
+    
+  </channel>
+</rss>

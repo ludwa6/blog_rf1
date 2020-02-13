@@ -1,0 +1,25 @@
+---
+title: 'Reference Links: the wiki way(?)'
+author: Walt Ludwick
+date: '2019-07-07'
+categories:
+  - Development
+tags:
+  - (R)MD
+slug: reference-links-the-wiki-way
+---
+This is about creating a shorthand so i don't have to type out the full web address of a certain resource, every time i want to point to it.  
+
+## Testing Reference Links
+So here's a list of those:
+
+- [The Farm's website][vdlnet]
+- Walt's [ReFarm Blog][rf1]
+- Walt's [GitHub Pages site][wgit]
+
+And that's how it looks
+
+___
+[vdlnet]: https://www.valedalama.net/en/
+[rf1]: https://refarmer.net 
+[wgit]: https://ludwa6.github.com 

@@ -1,0 +1,29 @@
+---
+title: Taxonomy Development
+author: Walt Ludwick
+date: '2019-07-07'
+slug: taxonomy-development
+categories:
+  - Development
+tags:
+  - WL
+description: ''
+thumbnail: ''
+---
+To make this site into a useful rsource, even just (especially!) for myself, i need a taxonomy (i.e. Categories and Tags, essentially... Plus any ancillary elements in the site navigation: menu bar, sidebar, naming conventions, etc.) that will make it easy to find (i.e. search and filter) content whenever i need it quickly.
+
+### Key concepts under consideration:
+
+- Categories are mandatory and mutually exclusive;  each post must be assigned to one and only one category
+  - cool: just discovered i can change a cat. name in the TOML of only post that references it (this one)
+  - not cool: the way Hugo theme concatenates names, removes special char's (e.g. &) and changes CamelCase to Camelcase
+- Tags are optional and can overlapping: a post can have any nuumber of tags from 0:many
+  - more coolness! to eliminate a tag, filter by it to see all articles that use it, eliminate it from the TOML of each one... and Poof! tag disappears from navigation. 
+  
+### Related issues:
+
+- Julie Evans (interesting on many levels) has posted [interesting thoughts](https://jvns.ca/blog/2019/02/17/organizing-this-blog-into-categories/) on this issue, results of which are evident on her blog (subscribed in NNW under "To Study").
+- RSS enables alternative views on the site that enhance utility;  i only know how to add feeds that are on web (like my blog in production), but remember this in authoring for utility.
+- Don't go too far in this one, because -w/o a web enabled view- it's of limited utility
+  - fixed! see [local view of this site](http://127.0.0.1:4321/post/taxonomy-development/);  like this, i don't even need to "serve site" and keep shifting to viewer
+

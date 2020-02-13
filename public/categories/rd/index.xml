@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rd on ReFarmer.Net   Developer Version</title>
+    <link>/categories/rd/</link>
+    <description>Recent content in Rd on ReFarmer.Net   Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/rd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taxonomy Development</title>
+      <link>/post/taxonomy-development/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/taxonomy-development/</guid>
+      <description> To make this site into a useful rsource, even just (especially!) for myself, i need a taxonomy (i.e. Categories and Tags, essentially… Plus any ancillary elements in the site navigation: menu bar, sidebar, naming conventions, etc.) that will make it easy to find (i.e. search and filter) content whenever i need it quickly.
+Key concepts i’m considering ATM are:
+ Categories are mandatory and mutually exclusive; each post must be assigned to one and only one category Tags are optional and can overlapping: a post can have any nuumber of tags from 0:many   </description>
+    </item>
+    
+  </channel>
+</rss>

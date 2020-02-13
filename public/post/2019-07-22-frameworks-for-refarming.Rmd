@@ -1,0 +1,75 @@
+---
+title: Frameworks for ReFarming
+author: Walt Ludwick
+date: '2019-07-22'
+slug: frameworks-for-refarming
+categories:
+  - Development
+tags:
+  - 2pub
+description: ''
+thumbnail: ''
+---
+
+Eliot Coleman's ["REAL Organic" Standards -condensed](http://fourseasonfarm.com/how-we-farm/):
+
+1. First, for uncompromised nutritional value all crops must be grown in a biologically active, fertile soil attached to the earth and nourished by the natural biological activities of that soil. There are so many important soil processes that we could not replace even if we wanted to, because we are still unaware of all the benefits they contribute.
+2. Second, soil fertility should be maintained principally with farm-derived organic matter and mineral particles from ground rock. Why take the chance of bringing in polluted material from industrial sources when fertility can be created and maintained internally?
+3. Third, deep-rooting green manures, cover crops, and grazed pastures must be included within broadly based crop rotations to enhance biological diversity. The greater the variety of plants and animals on the farm, the more stable the system.
+4. Fourth, a “plant positive” rather than a “pest negative” philosophy is vital. The focus must be on correcting the cause of pest problems (sick plants) by strengthening the plant through creating optimum soil conditions to prevent pests, rather than merely treating the symptom (pest damage) by trying to kill the pests that prey on weak plants. More and more scientific evidence is available today on the mechanisms by which a biologically active fertile soil creates induced resistance in the crops.
+5. Fifth, livestock must be raised outdoors on grass-based pasture systems to the fullest extent possible. Farm animals are an integral factor in the symbiosis of soil fertility on the organic farm.
+
+John Kempf teaches the following 5 Core Concepts (From AEG's [Mission and Core Concepts](https://www.advancingecoag.com/mission) page):
+
+1. Healthy Plants Resist Insects and Disease
+2. Mineral Nutrition Supports Plant Immunity
+3. Microbial Metabolites Are a More Efficient Source of Nutrition
+4. Quality Drives Yield
+5. Healthy Plants Create Healthy Soil
+
+Gabe Brown's [5 Principles of a healthy soil-ecosystem](http://www.sourcingmatters.show/index.php/2018/12/13/ep-57-gabe-brown-principal-of-new-ag-principles/):
+
+1. Limited Disturbance:  avoid synthetics & tillage
+2. Topsoil Cover: bare soil is (as Savory Says) "public enemy #1"
+3. BioDiversity: no monocropping; nature doesn't work that way, neither do we
+4. Living Roots in the ground as long as possible, using covercrops & seasonal diversity
+5. Integrated Animals: not only livestock, but consider also the role of "little critters" dwelling on and in the soil, in keeping the soil healthy
+
+Allan Savory: 4 Key Insights:
+
+1. Holistic (i.e. Natural) perspective needed to manage
+2. Scale of brittleness
+3. Animals in Grasslands: syntropic coevolution
+4. overgrazing = time, not numbers
+
+First Principles: newton, thermodynamics, etc. :
+
+- Jan Smuts: syntropy, patterns of info
+- h.t. odum: themodynamics in ecosystems, trophic levels (and cascade?) keystone species
+- vernadsky (biosphere), gaia (lovelock and margulis)
+
+other:
+
+- mollison, holmgren, lawton: permaculture
+- p.a. yeomans: scale of permanence, keyline
+- Elaine Inham: soil food web
+- brad kittridge: (bio)nutrient density
+- john todd: living machines
+
+
+My pet theories
+3 levels of managing complexity
+personal, control : GTD
+team/community (partnership) : Holacracy
+ecosystem (influence) : Holistic Management
+concepts
+jSmuts, aKoestler: the cell, membrane, protocols of exchange
+OrganIzation (like organs in a body)
+vehicles metaphor (BrianR's bike and plane, henryFord horse/auto factory, bucky spaceship earth)
+sources
+TNS: book (where?) and summary (here)
+Living Water: gerald x, vSchauberger, my notes here
+see Rafter's paper: 4 circles (invi2coll, farm2world)
+Systems Thinking: Donela Meadows and Charlie Munger (see [Mental Models](https://fs.blog/mental-models/))
+
+Earlier Research: see my [Theoretical Framework](https://dynalist.io/d/VRQyvQIhfW9j6fVIUmQ9RtYx#z=FcU5ITMGEb-EfztQ_PfBkFOv)

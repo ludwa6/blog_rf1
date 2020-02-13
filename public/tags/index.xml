@@ -1,49 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ReFarmer.Net</title>
+    <title>Tags on ReFarmer.Net  ::  Developer Version</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on ReFarmer.Net</description>
+    <description>Recent content in Tags on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Permaculture</title>
-      <link>/tags/permaculture/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <title>2pub</title>
+      <link>/tags/2pub/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/permaculture/</guid>
+      <guid>/tags/2pub/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regenag</title>
-      <link>/tags/regenag/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Imgur</title>
+      <link>/tags/imgur/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/regenag/</guid>
+      <guid>/tags/imgur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Staging</title>
-      <link>/tags/staging/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Instagram</title>
+      <link>/tags/instagram/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/staging/</guid>
+      <guid>/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private</title>
+      <link>/tags/private/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rmd</title>
+      <link>/tags/rmd/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wl</title>
+      <link>/tags/wl/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>/tags/youtube/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/youtube/</guid>
       <description></description>
     </item>
     

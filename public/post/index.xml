@@ -1,160 +1,277 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ReFarmer.Net</title>
+    <title>Posts on ReFarmer.Net  ::  Developer Version</title>
     <link>/post/</link>
-    <description>Recent content in Posts on ReFarmer.Net</description>
+    <description>Recent content in Posts on ReFarmer.Net  ::  Developer Version</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>REAL Organic Standards</title>
-      <link>/post/real-organic-standards/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Winter ReFarming</title>
+      <link>/post/winter-refarming/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/real-organic-standards/</guid>
-      <description>While government-approved organic certification standards are a good thing to have, they are by no means a guarantee that the produce under the label is of the highest nutritional quality. Indeed, as anyone who&amp;rsquo;s seen the film &amp;ldquo;Keeping the Soil in Organic&amp;rdquo; must admit, the standard -at least in USA (i.e. USDA Ceritified Organic)- is so broad as to admit of some very unhealthful practices&amp;hellip; And because those practices are essential to the profitiability of those big agri-businesses that have lobbied successfully to protect them, they are in fact coming to increasingly dominate the organic food supply chain.</description>
+      <guid>/post/winter-refarming/</guid>
+      <description>It&amp;rsquo;s a beautiful time of year&amp;hellip;
+In this landscape so liberally sprinkled with almond flowers, one can almost believe the legend of almond trees in Algarve. Beautiful, but also challenging, in that Good Stewardship of these trees and the soil in which they grown involves a lot of work that needs doing in the short winter season, when days are short and weather unpredictable.
+in keeping w/ my new years resolution, am trying to use this blog as my FarmDiary link to my observations log at farmOS link to my Imgur account</description>
     </item>
     
     <item>
-      <title>Permaculture, 10 years into it</title>
-      <link>/post/permaculture-10-years-into-it/</link>
-      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Focus: OKRs and GTD</title>
+      <link>/post/focus-okrs-and-gtd/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/permaculture-10-years-into-it/</guid>
-      <description>Since hosting our first PDC (Permaculture Design Course) here on the farm some 10 years ago, and having since then gained a measure of fame for our applications of this particular design science, i want to take a few moments here for celebration and critical reflection on that experience.
-One project in particular stands out for me as reflecting pretty much the entire rainbow of possibilities: the light, the dark, and everything in between.</description>
+      <guid>/post/focus-okrs-and-gtd/</guid>
+      <description>In fulfillment of my commitment to &amp;ldquo;Measure What Matters,&amp;rdquo; i&amp;rsquo;ve undertaken to develop a program for implementing the system of OKRs laid out in that book -following the implementation timeline pictured above.
+This is going to involve a lot of work on my part -the kind of work i don&amp;rsquo;t generally enjoy, which involves a lot of chasing after people and their deliverables- but i&amp;rsquo;m committed to it. Problem is, my way of working doesn&amp;rsquo;t lend itself so well to doing this, SO&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Paragliding Cordoama</title>
-      <link>/post/paragliding-cordoama/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Collective Impact</title>
+      <link>/post/collective-impact/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/paragliding-cordoama/</guid>
-      <description>A nice cool morning, so i finished sheet-mulching &amp;amp; composting the 3rd of 3 beds today&amp;hellip; But then as sky remained overcast, with a moderate breeze out of NNW, it occurred to me that perhaps the wind would be hitting Cordoama beach just about right. So i took a chance -and bagged a nice 90min flight at my favorite site in all the world!</description>
+      <guid>/post/collective-impact/</guid>
+      <description>So this is a popular theme with me these days, which i&amp;rsquo;m touting to anyone who will listen. Mentioned it to Barbara at the Biovilla workshop last week -must followup in writing with her, if she ever answers my email of day before yesterday- was bending HugOli&amp;rsquo;s ear about it all day yesterday, as it needs to be the focus of our ERC&amp;hellip; and it&amp;rsquo;s really the motivation of my OKRs project here on the farm, as we are trying to build a culture around Results That Matter.</description>
     </item>
     
     <item>
-      <title>ReFarming both Landscape and InfoScape</title>
-      <link>/post/refarming-both-landscape-and-infoscape/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Launch ReFarmer.Net</title>
+      <link>/post/launch-refarmer-net/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/refarming-both-landscape-and-infoscape/</guid>
-      <description>This blogging (given such power tools) takes so little effort&amp;hellip; So why has it been so many weeks since last post?
-No excuse, but it does seem like quite a stretch these days, between all i&amp;rsquo;ve got to do on the ground AND &amp;ldquo;in the air,&amp;rdquo; to to speak -i.e. the infosphere. Typically, i am so bushed from the former sort of work that, whenever i sit down at computer, i&amp;rsquo;ve little attention for anything much beyond essential tasks.</description>
+      <guid>/post/launch-refarmer-net/</guid>
+      <description>It&amp;rsquo;s time. My public blog is out there, but rather an embarrassment, in need of some cleanup &amp;amp; all-around love&amp;hellip; And i need to be pushing out coms right now, in the directin of achieving Collective Impact, while asserting my identity as ReFarmer #1.
+MEANWHILE: I must use this dev platform for all it&amp;rsquo;s worth, to develop both my chops as a writer, and the technology to support my craft. Simple as it is, this UI and taxonomic model, i don&amp;rsquo;t actually know how it will work over time as a useful writers notebook.</description>
     </item>
     
     <item>
-      <title>Bionutrient Food Association</title>
-      <link>/post/bionutrient-food-association/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <title>ORID revisited</title>
+      <link>/post/orid-revisited/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/bionutrient-food-association/</guid>
-      <description>Enchanted by &amp;ldquo;The Shiny Object,&amp;rdquo; as Dan Kittredge puts it so well in this video, i enquired of the BFA as to the prospects of getting a Bionutrient Meter over here in Portugal&amp;hellip; But in the end, my decision to form a local chapter is grounded in my assessment that this organisation has what it takes to achieve Collective Impact.</description>
+      <guid>/post/orid-revisited/</guid>
+      <description>When (in a previous life, it seems :-) i served on the Board of ICA Canada, our conversations followed a certain pattern that i want to replicate here -just to see where it leads.
+OBSERVE what is, here-and-now, without judgement 05:30am here at home, Sunday following week of GROW conference in Lisbon. Ate my usual breakfast, did a full round of TaiChi (without a hitch, muscle memory is coming back), am now drinking tea and watching video of Greta Thunberg -that 16 y/o Swedish climate activist who started the &amp;ldquo;Fridays for Future&amp;rdquo; protest movement- testifying at US Congressional hearing a few days ago (a long session that i couldn&amp;rsquo;t quite get through, but here an edit with just Greta&amp;rsquo;s comments).</description>
     </item>
     
     <item>
-      <title>Celebrating… Life!</title>
-      <link>/post/celebrating-life/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <title>ShorDurPerSav</title>
+      <link>/post/shordurpersav/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/celebrating-life/</guid>
-      <description>The life of a ReFarmer tends to be so busy, one loses all perspective at times. So: here i am, &amp;ldquo;up before the chickens,&amp;rdquo; as it were -often the only time i can find in a day to address the pile of unanswered emails- when the long list in my inbox went all fuzzy, so i couldn&amp;rsquo;t bring myself to focus, and i found myself staring motionless at the screen so long, my screensaver kicked in.</description>
+      <guid>/post/shordurpersav/</guid>
+      <description>This discipline prescribed by Julia Cameron (and there are many variations on the theme proposed by other writers down the ages) is one i commit to follow. During those hours when i alone am awake in the house , instead of just browsing the endless buffet of offerings from others, i believe that i do well to express my own thoughts -or else be silent.
+One thought that occurred to me earlier is: all those people that i look forward to interacting with today (and not without trepidation [1]) are gatekeepers of some technology that i hope to adopt and bring to bear on the challenges i&amp;rsquo;ve taken on for myself.</description>
     </item>
     
     <item>
-      <title>Farm OS</title>
-      <link>/post/farm-os/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Open-Heart Tree Surgery</title>
+      <link>/post/open-heart-tree-surgery/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/farm-os/</guid>
-      <description>It&amp;rsquo;s taken a bit of doing -tho less pain that i expected, thanks to good help of Developer Mike Stenta [1]- but i finally got an instance of Farm OS loaded up with all the landplots on our farm, at least in terms of high-level definitions. I&amp;rsquo;ve set up a visitor account with read-only privs at https://vdl.farmos.net/farm/areas (login/pass = Visit0r/Visit0r), so you can check out the interface and browse around the data (including interactive map), if you like.</description>
+      <guid>/post/open-heart-tree-surgery/</guid>
+      <description> Open-Heart Tree Surgery   </description>
     </item>
     
     <item>
-      <title>Holistic Planned Grazing 1</title>
-      <link>/post/holistic-planned-grazing-1/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Chuva de Amendoas</title>
+      <link>/post/chuva-de-amendoas/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/holistic-planned-grazing-1/</guid>
-      <description>&amp;ldquo;Baahhh -where&amp;rsquo;d she go, my little lamb?!&amp;rdquo;
-Easy as it is to lose a sheep in the forest of mums now in flower, these sheep don&amp;rsquo;t actually seem to perturbed by the lack of visibility, as they are too busy eating. These days, it is easy enough to contain them in the paddock using this &amp;ldquo;Smart Fence&amp;rdquo; which is really just quickly deployed perimeter in the form of 3 wires (charged via mains or solar battery) spooled-out around a set of step-in stakes.</description>
+      <guid>/post/chuva-de-amendoas/</guid>
+      <description>So: it started yesterday pm…
+here’s the same (almost) image at imgur
+ Then in the end, we got an actual rain, so we packed up, went home and ate almonds 😄
+ps: here’s a link to the full imgur archive pps: great help from visiting Belgians; you guys were great, thanks! ❤️</description>
     </item>
     
     <item>
-      <title>Mobile Photo Blogging Workflow, Challenges</title>
-      <link>/post/mobile-photo-blogging/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Emoji list</title>
+      <link>/post/emoji-list/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/mobile-photo-blogging/</guid>
-      <description>Could THE solution to mobile image management finally be at hand? THE answer (TLDR) is: NO.
-My more nuanced answer (if you&amp;rsquo;ve got the patience for it) is: If techology is defined, per Douglas Adams, as &amp;ldquo;stuff that doesn&amp;rsquo;t work right yet,&amp;rdquo; and infrastructure is &amp;ldquo;stuff that works so well, we&amp;rsquo;re not even aware of it,&amp;rdquo; then how this technology will ever evolve into infrastructure, i simply cannot IMAGine. Or, rather: while i could easily imagine how the big players in online media might like to develop such infrastructure and wrap us all up in its fuzzy embrace, i&amp;rsquo;m very clear that this is not a future that i would like to inhabit.</description>
+      <guid>/post/emoji-list/</guid>
+      <description>This comprehensive list seems to work almost perfectly&amp;hellip;
+But i can only see myself using a tiny subset, i.e.:
+ Reactions: 😃 , ❤️ , 💤 , 👍 , 👎 , ❓, ❗️ , Farm-related: 🐔 , 🐑 , :donkey:  </description>
     </item>
     
     <item>
-      <title>Climbers</title>
-      <link>/post/climbers/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Frameworks for ReFarming</title>
+      <link>/post/frameworks-for-refarming/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/climbers/</guid>
-      <description>To provide some shade on the sunset verandah of our new rammed-earth farm-home, we&amp;rsquo;ve planted some climbers like this around the pillars: What&amp;rsquo;s novel about this plantation is: it&amp;rsquo;s irrigated entirely with greywater from our laundry-to-landscape irrigation system: literally running the effluent from each load of laundry to our choice of 4 different climbers that we&amp;rsquo;ve got planted at the base of each pillar. I had my as to how they might react to the laundry soap -even though we use the most ecological (i.</description>
+      <guid>/post/frameworks-for-refarming/</guid>
+      <description>Eliot Coleman’s “REAL Organic” Standards -condensed:
+First, for uncompromised nutritional value all crops must be grown in a biologically active, fertile soil attached to the earth and nourished by the natural biological activities of that soil. There are so many important soil processes that we could not replace even if we wanted to, because we are still unaware of all the benefits they contribute. Second, soil fertility should be maintained principally with farm-derived organic matter and mineral particles from ground rock.</description>
     </item>
     
     <item>
-      <title>GROW Observatory: making an impact</title>
-      <link>/post/grow-observatory-making-an-impact/</link>
-      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Homage to James Lovelock</title>
+      <link>/post/homage-to-james-lovelock/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/grow-observatory-making-an-impact/</guid>
-      <description>Since joining this project last August, we&amp;rsquo;ve deployed a whole lot of soil sensors across our landscape and spent more than a few hours collecting and uploading data, without having any real sense of the big picture, i.e.: What is the full scope and distribution of this Citizens Observatory? and what insight can we derive from the data gathered thus far?
-Well&amp;hellip; Results are only just starting to come back from The Observatory, but the picture is pretty encouraging already, at least a far as the first question is concerned.</description>
+      <guid>/post/homage-to-james-lovelock/</guid>
+      <description>On the occasion of his 100th birthday, what to do?  Funny: i had just been thinking of the man, when YouTube’s recommendation engine (whose advice i only take while making breakfast, as a rule) threw me this selection- James Lovelock CCLS2019 -from the Cambridge Climate Lecture Series. Turned out to be a discussion about JL and his theories, with the great man only present via 3 short video segments, so for much of the rest, i paid only partial attention.</description>
     </item>
     
     <item>
-      <title>Data visualisation 1</title>
-      <link>/post/data-visualisation-1/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>ABOUT: rf1,Dev</title>
+      <link>/post/about-rf1-dev/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/data-visualisation-1/</guid>
-      <description>Until i can figure out how this business of Shiny app publishing, i guess i&amp;rsquo;m stuck with the old-school method of saving graphics out of RStudio and pasting them into documents, like this post.
-My workflow on this operation is:
- copy the image of plot as visualised in RStudio; paste it into my desktop image editor, to make any needed adjustments; upload it from there to Imgur.com, which is the best online image host i have found; then paste code Imgur provides for my choice of image rendering size into the .</description>
+      <guid>/post/about-rf1-dev/</guid>
+      <description>At this point i have to say: i’m feeling good right now, because it seems like i have finally found a way to cultivate the habit of writing in a form that works for me personally, can support my work on the farm, and can (eventually) reach a wider audience to achieve a (eventually) growing measure of collective impact… And the foundation of this approach is right here rf1,Dev blog.</description>
     </item>
     
     <item>
-      <title>Shiny app publishing</title>
-      <link>/post/shiny-app-publishing/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Embed Photo album from IMGUR</title>
+      <link>/post/embed-photo-album-from-imgur/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/shiny-app-publishing/</guid>
-      <description>Met this morning with Franceso (my R dev collaborator and coach), and we got our Shiny app working well enough that i am very keen to publish it on the web. Much easier said than done! It&amp;rsquo;s pretty bandwidth intensive, as it is crunching a pretty large volume of data, and shinyapps.io just doesn&amp;rsquo;t seem up to the task.
-So we&amp;rsquo;re looking for alternatives. Only one i know about right now is rpubs.</description>
+      <guid>/post/embed-photo-album-from-imgur/</guid>
+      <description>Mediterranean Food Forest, January 2018   So that’s how it shows up, when you just copy embed code from an Imgur album (kinda hard to find: look just below comment section on last image in the post, that row of social media sharing icons, under the … at far RH end of the line), and just paste the code directly into a Blogdown post. It doesn’t give you a gallery widget on your own site; just a view of the first image w/ caption, that is linked to the full album on Imgur.</description>
     </item>
     
     <item>
-      <title>Blogging in RStudio</title>
-      <link>/post/blogging-in-rstudio/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Deleting Content</title>
+      <link>/post/deleting-content/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/blogging-in-rstudio/</guid>
-      <description>I started this blog in a hurry back in January… And since then, i forgot how i did it!
-Took a bit of rummaging around, to reacquaint myself with all elements of the technology stack, which includes:
- RStudio Blogdown (RStudio addin, output thru Hugo framework, Lithium default theme) Github.com (free account) Netlify.com (another free account, connected to the former)  It then took a few hours of study and play, to get the software configured and myself trained to the point where i can blog as efficiently as in Wordpress -so now i can freely appreciate the significant advantages of this file-based system.</description>
+      <guid>/post/deleting-content/</guid>
+      <description>The “Blogdown” package to RStudio provides a nice easy UI (i.e. its “Addins”&#34; menu) to push content thru Hugo to the web (via Github and Netlify)… But it has no affordance for the deletion of posts; for this you must go into the Hugo filesystem… Not so easy as i had hoped, alas, but doable. Here’s how:
+In RStudio’s file browswer, navigate to /content/post/ , tick box of content item(s) you want gone, and click Delete.</description>
+    </item>
+    
+    <item>
+      <title>Instagram embed</title>
+      <link>/post/instagram-embed/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/instagram-embed/</guid>
+      <description>Followihg advice in this article, here is how to share photos from Instagram. First find the image you want on Instagram site, click the share link, and select “copy link” to get the URL, where you can find the ID code of image embedded. Take that code, and use it as argument in the following shortcodes:
+   View this post on Instagram        Come be a part of our team!</description>
+    </item>
+    
+    <item>
+      <title>Tweet embedding</title>
+      <link>/post/tweet-embedding/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tweet-embedding/</guid>
+      <description>Following advice in this article, here is how to embed a tweet. First, get the URL of the tweet, get the ID of tweet from its URL (i.e. “Copy link to tweet” from the “more” dropdown arrow in top RH corner of tweet display on twitter), and input that as argument in the following shortcode:
+Excited to say that our pub is out! How #openscience #datascience #rstats has improved our science https://t.</description>
+    </item>
+    
+    <item>
+      <title>Reference Links: the wiki way(?)</title>
+      <link>/post/reference-links-the-wiki-way/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reference-links-the-wiki-way/</guid>
+      <description> This is about creating a shorthand so i don’t have to type out the full web address of a certain resource, every time i want to point to it.
+Testing Reference Links So here’s a list of those:
+ The Farm’s website Walt’s ReFarm Blog Walt’s GitHub Pages site  And that’s how it looks
+ </description>
+    </item>
+    
+    <item>
+      <title>Taxonomy Development</title>
+      <link>/post/taxonomy-development/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/taxonomy-development/</guid>
+      <description>To make this site into a useful rsource, even just (especially!) for myself, i need a taxonomy (i.e. Categories and Tags, essentially… Plus any ancillary elements in the site navigation: menu bar, sidebar, naming conventions, etc.) that will make it easy to find (i.e. search and filter) content whenever i need it quickly.
+Key concepts under consideration:  Categories are mandatory and mutually exclusive; each post must be assigned to one and only one category  cool: just discovered i can change a cat.</description>
+    </item>
+    
+    <item>
+      <title>Use Case template</title>
+      <link>/post/use-case-template/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/use-case-template/</guid>
+      <description> Use Case 1: (Target) Title (Type)  Primary Actor: User Scope: Software system Level: Summary / User Goal  Main success scenario: … … …   Extensions:  1a. … 3a. … 3b. …   Variations: 2’. …
+  </description>
+    </item>
+    
+    <item>
+      <title>Workflow for Writing</title>
+      <link>/post/workflow-for-writing/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workflow-for-writing/</guid>
+      <description>Key design goal here is “notational velocity” -to capture ideas at speed of thought, and implement them before all the motivation is gone- and for this, my primary working tool is an outliner…. So i’m going to use headings.
+Main Success Scenario Writing in DynaList  Create post in Blogdown  Paste in content from DynaList; work it over in  Text editing in Atom Let’s test these invisible links: to my Github, to VdL.</description>
+    </item>
+    
+    <item>
+      <title>Youtube video embed</title>
+      <link>/post/video-embed-using-shortcode/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/video-embed-using-shortcode/</guid>
+      <description>Following online tutorial, here’s that paragliding video Pete shot yesterday:
+blogdown::shortcode(&amp;quot;youtube&amp;quot;, &amp;quot;yClRNHefT1M&amp;quot;)   There: how does that show up? Here’s another way to do, from goHugo site:
+  Ah: that one works better -the code is obscured (NB: i followed text of article, not the video kid, because his &amp;lt;&amp;gt; bracketing arguments didn’t work; instead it was % signs bracketing arguments that worked)</description>
+    </item>
+    
+    <item>
+      <title>Merlin Mann’s advice</title>
+      <link>/post/merlin-mann-s-advice/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/merlin-mann-s-advice/</guid>
+      <description>Best advice i ever heard for wanna be bloggers came from a guy whose stuff i used to lap up eagerly, every morsel he ever released, until he went silent quite some time ago (he’s still alive -i’ve checked- i think he just got tired of his own schtick). The man is Merlin Mann, and this came from a presentation he did entitled “How to Blog” -which video i did see, a good few years ago; can’t find it now, but i did find his SlideShare deck -notes from which are cribbed below, because i don’t wanna lose this stuff, it’s important.</description>
+    </item>
+    
+    <item>
+      <title>Workplan, tests, results</title>
+      <link>/post/workplan-tests-results/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workplan-tests-results/</guid>
+      <description>Copied over, from a .md file to .rmd
+Tests/ Results  Create a new post, with a new author (me) -CHECK edit metadata: roll back create date 1 day -CHECK  it works, if you tick the box to change slug, etc. (is how i screwed up last blog3)  changed author attribution -CHECK -PORTED TO BLOG2  put w_avatar.png in the /themes/Mainroad/static/img folder (alongside default avatar.png)  NB: it got copied (dupe) to /public/img/ folder, when i served the site  changed config.</description>
+    </item>
+    
+    <item>
+      <title>Learn Markdown</title>
+      <link>/post/learn-markdown/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-markdown/</guid>
+      <description>Between Markdown and RMarkdown -and Pandoc and CommonMark and all the site-specific flavors: GitHub, StackExchange, reddit, etc. - i am really confused as to which to learn. The starting point, it seems to me, should be the highest COMMON denominator -which, given all these variants, is probably a pretty small set, i reckon (Gruber&amp;rsquo;s maybe?) Anyway: I post below the Help file from MacDown, the desktop tool i find handiest for testing my markdown; let&amp;rsquo;s compare how Hugo parses this with how MacDown does, and see if there&amp;rsquo;s anything to worry about here.</description>
     </item>
     
     <item>
       <title>The Spirit in which we do</title>
       <link>/post/the-spirit-in-which-we-do/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/the-spirit-in-which-we-do/</guid>
       <description>&amp;ldquo;It matters not what you do so much as the spirit in which you do it&amp;rdquo;
-Once upon a time, i fell in love with a woman -and when it became quite serious, i got a hand-written letter from this woman&amp;rsquo;s best friend, in which she wrote: &amp;ldquo;This woman you claim to love, she is like fine crystal: Beautiful, as you know. Strong also -surprisingly so, yes? But you must know that, if you touch her without love, she will break.</description>
+a little brown man in a bedsheet, can&amp;rsquo;t remember which one
+Once upon a time, i fell in love with a woman -and when it became quite serious, i got a hand-written letter from this woman&amp;rsquo;s best friend, in which she wrote: &amp;ldquo;This woman you claim to love, she is like fine crystal: Beautiful, as you know.</description>
+    </item>
+    
+    <item>
+      <title>R Markdown testing</title>
+      <link>/post/r-markdown-testing/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-markdown-testing/</guid>
+      <description>So what’s the diff, .Rmd vs .md? Let’s see…
+is this a line of commentary? Yup, it is -that is to say, collapsible, and does not execute as code- but it does show up as header in blog… And it can have any number of hashtags, which do control size of header.
+so here’s another line of commentary, with 3 hashtags and here’s the text that is contained
+ and here’s another such so i can have anothe line of text… &amp;gt;and i can write a code block like this see how cool that is?</description>
     </item>
     
   </channel>

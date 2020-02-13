@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instagram on ReFarmer.Net  ::  Developer Version</title>
+    <link>/tags/instagram/</link>
+    <description>Recent content in Instagram on ReFarmer.Net  ::  Developer Version</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instagram embed</title>
+      <link>/post/instagram-embed/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/instagram-embed/</guid>
+      <description>Followihg advice in this article, here is how to share photos from Instagram. First find the image you want on Instagram site, click the share link, and select “copy link” to get the URL, where you can find the ID code of image embedded. Take that code, and use it as argument in the following shortcodes:
+   View this post on Instagram        Come be a part of our team!</description>
+    </item>
+    
+  </channel>
+</rss>
