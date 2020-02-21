@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "ReFarmer.Net  ::  Developer Version"
+title = "ReFarmer.Net
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
@@ -13,7 +13,7 @@ enableEmoji = true
   avatar = "img/w_avatar.png"
 
 [Params]
-  subtitle = "Keep Calm, and ReFactor On!" # Subtitle of your site
+  subtitle = "Keep Calm, and ReFarm On!" # Subtitle of your site
   description = "a blog for Regenerative Farmers everywhere" # Description of your site
   opengraph = true
   twitter_cards = false
